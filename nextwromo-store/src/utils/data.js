@@ -112,7 +112,7 @@ const sliderData = [
     id: 3,
     title: 'Quality Freshness Guaranteed!',
     info: 'Intrinsicly fashion performance based products rather than accurate benefits...',
-    url: '/search?category=fresh-vegetable',
+    url: '/search?category=theme-wordpress',
     image: '/slider/slider-3.jpg',
   },
 ];
@@ -121,9 +121,9 @@ const ctaCardData = [
   {
     id: 1,
     title: 'Taste of',
-    subTitle: 'Fresh & Natural',
+    subTitle: 'Theme & Wordpress',
     image: '/cta/cta-bg-1.jpg',
-    url: '/search?category=fresh-vegetable',
+    url: '/search?category=theme-wordpress',
   },
   {
     id: 2,

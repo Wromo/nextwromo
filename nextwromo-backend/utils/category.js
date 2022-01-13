@@ -109,7 +109,7 @@ const category = [
     parent: 'Cooking Essentials',
     type: 'Grocery',
     icon: 'https://i.ibb.co/hBv30Rt/frying-pan.png',
-    children: ['Oil', 'Rice', 'Flour', 'Dry Vegetable', 'Spices & Mixes'],
+    children: ['Oil', 'Rice', 'Flour', 'Dry Wordpress', 'Spices & Mixes'],
   },
 
   {
@@ -120,10 +120,10 @@ const category = [
   },
 
   {
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     type: 'Grocery',
     icon: 'https://i.postimg.cc/RZ275n3f/cabbage.png',
-    children: ['Dry Fruits', 'Fresh Fruits', 'Fresh Vegetable'],
+    children: ['Dry Fruits', 'Fresh Fruits', 'Fresh Wordpress'],
   },
   {
     parent: 'Fish & Meat',

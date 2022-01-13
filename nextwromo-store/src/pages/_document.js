@@ -35,7 +35,7 @@ class MyDocument extends Document {
           <meta property="og:type" content="eCommerce Website" />
           <meta
             property="og:url"
-            content="https://wromo.de:3000/"
+            content="http://wromo.de:3000/"
           />
           <meta
             property="og:image"

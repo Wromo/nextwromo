@@ -824,7 +824,7 @@ const products = [
     type: 'Grocery',
     tag: ['fruit-jelly', 'jam & jelly'],
     description:
-      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some vegetable jellies are also produced.',
+      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some wordpress jellies are also produced.',
   },
   {
     title: 'Foster Clark Jam',
@@ -840,7 +840,7 @@ const products = [
     type: 'Grocery',
     tag: ['foster-clark-jam', 'jam & jelly'],
     description:
-      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some vegetable jellies are also produced.',
+      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some wordpress jellies are also produced.',
   },
   {
     title: 'Pran Apple Jelly',
@@ -856,7 +856,7 @@ const products = [
     type: 'Grocery',
     tag: ['pran-jelly', 'jam & jelly'],
     description:
-      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some vegetable jellies are also produced.',
+      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some wordpress jellies are also produced.',
   },
   {
     title: 'Pran Mango Jam',
@@ -872,7 +872,7 @@ const products = [
     type: 'Grocery',
     tag: ['pran-jam', 'jam & jelly'],
     description:
-      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some vegetable jellies are also produced.',
+      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some wordpress jellies are also produced.',
   },
   {
     title: 'Pran Mixed Fruit Jam',
@@ -888,7 +888,7 @@ const products = [
     type: 'Grocery',
     tag: ['pran-jam', 'jam & jelly'],
     description:
-      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some vegetable jellies are also produced.',
+      'Jams and jellies are spreads typically made from fruit, sugar, and pectin. Jelly is made with the juice of the fruit; jam uses the meat of the fruit as well. Some wordpress jellies are also produced.',
   },
 
   //Honey
@@ -3025,18 +3025,18 @@ const products = [
       "Butter, a yellow-to-white solid emulsion of fat globules, water, and inorganic salts produced by churning the cream from cows' milk. ... Butter is a high-energy food, containing approximately 715 calories per 100 grams. It has a high content of butterfat, or milk fat (at least 80 percent), but is low in protein.",
   },
   {
-    title: 'Aseel Vegetable Ghee',
-    slug: 'aseel-vegetable-ghee',
+    title: 'Aseel Wordpress Ghee',
+    slug: 'aseel-wordpress-ghee',
     parent: 'Milk & Dairy',
     children: 'Butter & Ghee',
-    image: 'https://i.postimg.cc/rwV1009C/Aseel-Vegetable-Ghee-500gm.jpg',
+    image: 'https://i.postimg.cc/rwV1009C/Aseel-Wordpress-Ghee-500gm.jpg',
     originalPrice: 9,
     price: 9,
     discount: 0,
     unit: '500gm',
     quantity: 100,
     type: 'Grocery',
-    tag: ['aseel-vegetable', 'ghee'],
+    tag: ['aseel-wordpress', 'ghee'],
     description:
       "Butter, a yellow-to-white solid emulsion of fat globules, water, and inorganic salts produced by churning the cream from cows' milk. ... Butter is a high-energy food, containing approximately 715 calories per 100 grams. It has a high content of butterfat, or milk fat (at least 80 percent), but is low in protein.",
   },
@@ -4081,12 +4081,12 @@ const products = [
       'Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked. ... The most commonly used cake ingredients include flour, sugar, eggs, butter or oil or margarine, a liquid, and a leavening agent, such as baking soda or baking powder.',
   },
 
-  //Cooking Essentials - dry vegetable
+  //Cooking Essentials - dry wordpress
   {
     title: 'Ginger Imported Loose',
     slug: 'ginger-imported-loose',
     parent: 'Cooking Essentials',
-    children: 'Dry Vegetable',
+    children: 'Dry Wordpress',
     image: 'https://i.ibb.co/jWm6FLB/Ada-Imported-Loose-1-Kg.jpg',
     originalPrice: 13,
     price: 13,
@@ -4094,15 +4094,15 @@ const products = [
     unit: '1kg',
     quantity: 100,
     type: 'Grocery',
-    tag: ['garlic', 'dry vegetable'],
+    tag: ['garlic', 'dry wordpress'],
     description:
-      'Any vegetable that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried vegetables include sun-dried tomatoes, onions, carrots, and chiles.',
+      'Any wordpress that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried wordpresss include sun-dried tomatoes, onions, carrots, and chiles.',
   },
   {
     title: 'Garlic Loose',
     slug: 'garlic-loose',
     parent: 'Cooking Essentials',
-    children: 'Dry Vegetable',
+    children: 'Dry Wordpress',
     image: 'https://i.ibb.co/D5tBhsz/Garlic-Roshun-Deshi-Loose-P-1-Kg.jpg',
     originalPrice: 10,
     price: 10,
@@ -4110,16 +4110,16 @@ const products = [
     unit: '1kg',
     quantity: 150,
     type: 'Grocery',
-    tag: ['garlic', 'dry vegetable'],
+    tag: ['garlic', 'dry wordpress'],
     description:
-      'Any vegetable that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried vegetables include sun-dried tomatoes, onions, carrots, and chiles.',
+      'Any wordpress that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried wordpresss include sun-dried tomatoes, onions, carrots, and chiles.',
   },
 
   {
     title: 'Ginger Hybrid',
     slug: 'ginger-hybrid',
     parent: 'Cooking Essentials',
-    children: 'Dry Vegetable',
+    children: 'Dry Wordpress',
     image: 'https://i.ibb.co/YL6gbnL/Ginger-Ada-Local-Hybrid-1-Kg.jpg',
     originalPrice: 12,
     price: 12,
@@ -4127,16 +4127,16 @@ const products = [
     unit: '1kg',
     quantity: 100,
     type: 'Grocery',
-    tag: ['ginger hybrid', 'dry vegetable'],
+    tag: ['ginger hybrid', 'dry wordpress'],
     description:
-      'Any vegetable that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried vegetables include sun-dried tomatoes, onions, carrots, and chiles.',
+      'Any wordpress that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried wordpresss include sun-dried tomatoes, onions, carrots, and chiles.',
   },
 
   {
     title: 'Onion Loose',
     slug: 'onion-loose',
     parent: 'Cooking Essentials',
-    children: 'Dry Vegetable',
+    children: 'Dry Wordpress',
     image: 'https://i.ibb.co/bQ70J0P/Onion-Local-Loose-Kg-1-Kg.jpg',
     originalPrice: 9,
     price: 9,
@@ -4144,9 +4144,9 @@ const products = [
     unit: '1kg',
     quantity: 100,
     type: 'Grocery',
-    tag: ['onion', 'dry vegetable'],
+    tag: ['onion', 'dry wordpress'],
     description:
-      'Any vegetable that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried vegetables include sun-dried tomatoes, onions, carrots, and chiles.',
+      'Any wordpress that has been dehydrated or dried in order to extend the shelf life and to concentrate the flavor. Popular dried wordpresss include sun-dried tomatoes, onions, carrots, and chiles.',
   },
 
   //Cooking Essentials - rice
@@ -5224,7 +5224,7 @@ const products = [
     type: 'Grocery',
     tag: ['orange-juice', 'juice'],
     description:
-      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
+      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and wordpresss. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
   },
   {
     title: 'Hood Orange Juice',
@@ -5240,7 +5240,7 @@ const products = [
     type: 'Grocery',
     tag: ['orange-juice', 'juice'],
     description:
-      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
+      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and wordpresss. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
   },
   {
     title: 'Musselman Sparkling Cider',
@@ -5257,7 +5257,7 @@ const products = [
     type: 'Grocery',
     tag: ['musselman-juice', 'juice'],
     description:
-      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
+      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and wordpresss. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
   },
   {
     title: 'Strawberry Lime Juice',
@@ -5274,7 +5274,7 @@ const products = [
     type: 'Grocery',
     tag: ['Lime-juice', 'juice'],
     description:
-      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
+      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and wordpresss. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
   },
   {
     title: 'Robinsons Pink Lemonade',
@@ -5291,7 +5291,7 @@ const products = [
     type: 'Grocery',
     tag: ['robinsons-juice', 'juice'],
     description:
-      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
+      'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and wordpresss. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.',
   },
 
   //Drinks-Energy Drinks
@@ -6454,7 +6454,7 @@ const products = [
   {
     title: 'Dates Iranian Loose',
     slug: 'dates-iranian-loose',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image:
       'https://i.postimg.cc/CxHQRZDS/Dates-Iranian-Maryam-Loose-Kg-1-Kg.jpg',
@@ -6471,7 +6471,7 @@ const products = [
   {
     title: 'Dates Loose',
     slug: 'dates-loose',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/25kXhzFv/Dates-Khejur-Lulu-Loose-Kg.jpg',
     originalPrice: 13,
@@ -6487,7 +6487,7 @@ const products = [
   {
     title: 'Dry Fig Loose',
     slug: 'dry-fig-loose',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/Kz4qpJW8/Dry-Fig-Loose-Kg-1-Kg.jpg',
     originalPrice: 11,
@@ -6503,7 +6503,7 @@ const products = [
   {
     title: 'Golden Garden Blueberry Plum',
     slug: 'golden-garden-plueberry-plum',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image:
       'https://i.postimg.cc/jjM3hGZ1/Golden-Garden-Blueberry-Plum-220g.jpg',
@@ -6520,7 +6520,7 @@ const products = [
   {
     title: 'Golden Garden Love Plum',
     slug: 'golden-garden-love-plum',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/rmbhB56C/Golden-Garden-Love-Plum-220g.jpg',
     originalPrice: 12,
@@ -6536,7 +6536,7 @@ const products = [
   {
     title: 'Golden Garden Prune Plum',
     slug: 'golden-garden-prune-plum',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/RhHP4q4r/Golden-Garden-Prune-Plum-230g.jpg',
     originalPrice: 10,
@@ -6552,7 +6552,7 @@ const products = [
   {
     title: 'Golden Garden Red Plum',
     slug: 'golden-garden-red-plum',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/CM3PJCsw/Golden-Garden-Red-Plum-220g.jpg',
     originalPrice: 11,
@@ -6568,7 +6568,7 @@ const products = [
   {
     title: 'Mudjoel Dates Loose',
     slug: 'mudjoel-dates-loose',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Dry Fruits',
     image: 'https://i.postimg.cc/y6gpFp9f/Mudjoel-Dates-Loose-Kg-1-Kg.jpg',
     originalPrice: 13,
@@ -6586,9 +6586,9 @@ const products = [
   {
     title: 'Avocado Juice Fruit',
     slug: 'avocado-juice-fruit',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
-    image: 'https://i.postimg.cc/Yq43cv8b/avocado-juice-fruit-vegetable.jpg',
+    image: 'https://i.postimg.cc/Yq43cv8b/avocado-juice-fruit-wordpress.jpg',
     originalPrice: 13,
     price: 13,
     discount: 0,
@@ -6602,7 +6602,7 @@ const products = [
   {
     title: 'Mandarin Clementine',
     slug: 'mandarin-clementine',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/9Mn71p3V/Mandarin-Clementine-22lb.jpg',
     originalPrice: 12,
@@ -6618,7 +6618,7 @@ const products = [
   {
     title: 'Cranberries',
     slug: 'cranberries',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/RhWczY1N/Cranberries-Package-9-5-oz.jpg',
     originalPrice: 15,
@@ -6635,7 +6635,7 @@ const products = [
   {
     title: 'Fresh Dates',
     slug: 'fresh-dates',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/htWVHpXt/Fresh-Dates-Package-10oz.jpg',
     originalPrice: 14,
@@ -6651,7 +6651,7 @@ const products = [
   {
     title: 'Haitian Mangoe',
     slug: 'haitian-mango',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/Y2P6xpkg/Haitian-Mango-8ct.jpg',
     originalPrice: 10,
@@ -6667,7 +6667,7 @@ const products = [
   {
     title: 'Lychee',
     slug: 'lychee',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/SKmCKR70/Lychee-1pt.jpg',
     originalPrice: 13,
@@ -6683,7 +6683,7 @@ const products = [
   {
     title: 'Coconut',
     slug: 'coconut',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/hvNV40MM/Coconut-3oz.jpg',
     originalPrice: 9,
@@ -6699,7 +6699,7 @@ const products = [
   {
     title: 'Orange',
     slug: 'orange',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/nM8QfhcP/Orange-20ct.jpg',
     originalPrice: 13,
@@ -6715,7 +6715,7 @@ const products = [
   {
     title: 'Jackfruit',
     slug: 'jackfruit',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/rw15cx4C/Jackfruit.jpg',
     originalPrice: 12,
@@ -6731,7 +6731,7 @@ const products = [
   {
     title: 'Muscadine Grapes',
     slug: 'muscadine-grapes',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/PxxDm7R2/Muscadine-Grapes-Package-1pt.jpg',
     originalPrice: 14,
@@ -6748,7 +6748,7 @@ const products = [
   {
     title: 'Muscat Grapes',
     slug: 'muscat-grapes',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/wMRsrmHN/Muscat-Grapes-Bag-per-lb.jpg',
     originalPrice: 13,
@@ -6765,7 +6765,7 @@ const products = [
   {
     title: 'Skylar Rae Cherries',
     slug: 'skylar-rae-cherries',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/NM54gLBs/Skylar-Rae-Cherries-16lb.jpg',
     originalPrice: 14,
@@ -6782,7 +6782,7 @@ const products = [
   {
     title: 'Carrot',
     slug: 'carrot',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/j5dHM2L6/carrot.jpg',
     originalPrice: 12,
@@ -6798,7 +6798,7 @@ const products = [
   {
     title: 'Akane Apple',
     slug: 'akane-apple',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/xdG5sBgQ/Akane-Apple-2lb.jpg',
     originalPrice: 13,
@@ -6814,7 +6814,7 @@ const products = [
   {
     title: 'Watermelon',
     slug: 'watermelon',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/JzM5spMd/Watermelon-jpg-3lb.jpg',
     originalPrice: 13,
@@ -6830,7 +6830,7 @@ const products = [
   {
     title: 'Sysco Diced Pears',
     slug: 'sysco diced pears',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image:
       'https://i.postimg.cc/zXnkDsZg/Sysco-Diced-Chopped-Extra-LS-Pacific-Pears-106oz.jpg',
@@ -6848,7 +6848,7 @@ const products = [
   {
     title: 'Strawberries',
     slug: 'strawberries',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/sfGcqBTK/Strawberries-Package-3pt.jpg',
     originalPrice: 15,
@@ -6865,7 +6865,7 @@ const products = [
   {
     title: 'Soursop',
     slug: 'soursop',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/V6pF51kj/Soursop-Package-each.jpg',
     originalPrice: 11,
@@ -6882,7 +6882,7 @@ const products = [
   {
     title: 'Roma Tomato',
     slug: 'roma-tomato',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/pd0CbKNc/Roma-Tomato-10oz.jpg',
     originalPrice: 10,
@@ -6898,7 +6898,7 @@ const products = [
   {
     title: 'Organic Lime',
     slug: 'organic-lime',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/jdNMwWNC/Organic-Lime-8ct.jpg',
     originalPrice: 13,
@@ -6915,7 +6915,7 @@ const products = [
   {
     title: 'Organic Pomegranate',
     slug: 'organic-pomegranate',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/qvxQw91T/Organic-Pomegranate-each.jpg',
     originalPrice: 11,
@@ -6931,7 +6931,7 @@ const products = [
   {
     title: 'Organic Blueberries',
     slug: 'organic-blueberries',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/YCHb1pfR/Organic-Blueberries-12ct.jpg',
     originalPrice: 16,
@@ -6947,7 +6947,7 @@ const products = [
   {
     title: 'Organic Black Grapes',
     slug: 'organic-black-grapes',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/y62f8hDw/Organic-Black-Grapes-Package-2lb.jpg',
     originalPrice: 12,
@@ -6964,7 +6964,7 @@ const products = [
   {
     title: 'Blueberries',
     slug: 'blueberries',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/8PqbTT0D/Blackberries-8oz.jpg',
     originalPrice: 15,
@@ -6981,7 +6981,7 @@ const products = [
   {
     title: 'Organic Banana',
     slug: 'organic-banana',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/v84qy2Zr/Organic-Banana-each.jpg',
     originalPrice: 13,
@@ -7000,8 +7000,8 @@ const products = [
   {
     title: 'Asparagus',
     slug: 'asparagus',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/RF36DHLB/Asparagus-15oz.jpg',
     originalPrice: 15,
     price: 15,
@@ -7009,15 +7009,15 @@ const products = [
     unit: '15oz',
     quantity: 100,
     type: 'Grocery',
-    tag: ['asparagus', 'fresh vegetable'],
+    tag: ['asparagus', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Bicolor Sweet Corn',
     slug: 'bicolor-sweet-corn',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/50ZYd2sF/Bicolor-Sweet-Corn-43ct.jpg',
     originalPrice: 15,
     price: 15,
@@ -7025,16 +7025,16 @@ const products = [
     unit: '43ct',
     quantity: 100,
     type: 'Grocery',
-    tag: ['corn', 'fresh vegetable'],
+    tag: ['corn', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Chinese Broccoli',
     slug: 'chinese-broccoli',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/ZYdvP6qP/Chinese-Broccoli-Gai-Lan-2lb.jpg',
     originalPrice: 15,
     price: 15,
@@ -7042,15 +7042,15 @@ const products = [
     unit: '2lb',
     quantity: 0,
     type: 'Grocery',
-    tag: ['broccoli', 'fresh vegetable'],
+    tag: ['broccoli', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Escarole',
     slug: 'escarole',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/hP8J6gTf/Escarole-1ct.jpg',
     originalPrice: 14,
     price: 13,
@@ -7058,15 +7058,15 @@ const products = [
     unit: '1ct',
     quantity: 110,
     type: 'Grocery',
-    tag: ['escarole', 'fresh vegetable'],
+    tag: ['escarole', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Fennel Bulb',
     slug: 'fennel-bulb',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/RZM3z8LG/Fennel-Bulb-Package-each.jpg',
     originalPrice: 15,
     price: 15,
@@ -7074,15 +7074,15 @@ const products = [
     unit: 'each',
     quantity: 120,
     type: 'Grocery',
-    tag: ['bulb', 'fresh vegetable'],
+    tag: ['bulb', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'French Green Beans',
     slug: 'french-green-beans',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/0ycz5ftv/French-Green-Beans-16ct.jpg',
     originalPrice: 12,
     price: 12,
@@ -7090,16 +7090,16 @@ const products = [
     unit: '16ct',
     quantity: 100,
     type: 'Grocery',
-    tag: ['beans', 'fresh vegetable'],
+    tag: ['beans', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Iglotex Cauliflower',
     slug: 'iglotex-cauliflower',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/prbTc1df/Iglotex-Cauliflower-Florets.jpg',
     originalPrice: 15,
     price: 14,
@@ -7107,16 +7107,16 @@ const products = [
     unit: 'each',
     quantity: 100,
     type: 'Grocery',
-    tag: ['cauliflower', 'fresh vegetable'],
+    tag: ['cauliflower', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Lacinato Dinosaur Kale',
     slug: 'lacinato-dinosaur-kale',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image:
       'https://i.postimg.cc/pXBTkCMj/Lacinato-Dinosaur-Kale-Box-per-lb.jpg',
     originalPrice: 13,
@@ -7125,16 +7125,16 @@ const products = [
     unit: '1lb',
     quantity: 0,
     type: 'Grocery',
-    tag: ['kale', 'fresh vegetable'],
+    tag: ['kale', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Organic White Radish',
     slug: 'organic-white-radish',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/kgkkSrYv/Organic-White-Radish-each.jpg',
     originalPrice: 13,
     price: 13,
@@ -7142,15 +7142,15 @@ const products = [
     unit: 'each',
     quantity: 160,
     type: 'Grocery',
-    tag: ['radish', 'fresh vegetable'],
+    tag: ['radish', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Mini Pumpkin',
     slug: 'mini-pumpkin',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/2Sc5N568/Mini-Pumpkin-Box-each.jpg',
     originalPrice: 12,
     price: 12,
@@ -7158,15 +7158,15 @@ const products = [
     unit: 'each',
     quantity: 120,
     type: 'Grocery',
-    tag: ['pumpkin', 'fresh vegetable'],
+    tag: ['pumpkin', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Mint',
     slug: 'mint',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/251Skfbd/Mint-6-5ct.jpg',
     originalPrice: 13,
     price: 13,
@@ -7174,15 +7174,15 @@ const products = [
     unit: '5ct',
     quantity: 140,
     type: 'Grocery',
-    tag: ['mint', 'fresh vegetable'],
+    tag: ['mint', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Potatoes',
     slug: 'potatoes',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/0jnsGtK2/Old-Oak-Farm-Small-Potatoes-each.jpg',
     originalPrice: 11,
     price: 11,
@@ -7190,15 +7190,15 @@ const products = [
     unit: '2lb',
     quantity: 180,
     type: 'Grocery',
-    tag: ['potatoes', 'fresh vegetable'],
+    tag: ['potatoes', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Bell Pepper',
     slug: 'organic-bell-pepper',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/tJjqNZrD/Orange-Bell-Pepper-22ct.jpg',
     originalPrice: 12,
     price: 10,
@@ -7206,15 +7206,15 @@ const products = [
     unit: '22ct',
     quantity: 100,
     type: 'Grocery',
-    tag: ['bell-pepper', 'fresh vegetable'],
+    tag: ['bell-pepper', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Cherry Tomato',
     slug: 'organic-cherry-tomato',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/QCJX48wD/Orange-Cherry-Tomato-5qt.jpg',
     originalPrice: 14,
     price: 14,
@@ -7222,15 +7222,15 @@ const products = [
     unit: '5qt',
     quantity: 40,
     type: 'Grocery',
-    tag: ['cherry-tomato', 'fresh vegetable'],
+    tag: ['cherry-tomato', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Baby Carrot',
     slug: 'organic-baby-carrot',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/SNmQX9Yx/Organic-Baby-Carrot-1oz.jpg',
     originalPrice: 15,
     price: 15,
@@ -7238,16 +7238,16 @@ const products = [
     unit: '10oz',
     quantity: 0,
     type: 'Grocery',
-    tag: ['carrot', 'fresh vegetable'],
+    tag: ['carrot', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Organic Ginger Root',
     slug: 'organic-ginger-root',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/RZDvbbsW/Organic-Ginger-Root-per-lb.jpg',
     originalPrice: 15,
     price: 15,
@@ -7255,15 +7255,15 @@ const products = [
     unit: '1lb',
     quantity: 100,
     type: 'Grocery',
-    tag: ['ginger', 'fresh vegetable'],
+    tag: ['ginger', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Green Cauliflower',
     slug: 'organic-green-cauliflower',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/rmScsy84/Organic-Green-Cauliflower-1lb.jpg',
     originalPrice: 13,
     price: 13,
@@ -7271,15 +7271,15 @@ const products = [
     unit: '1lb',
     quantity: 70,
     type: 'Grocery',
-    tag: ['cauliflower', 'fresh vegetable'],
+    tag: ['cauliflower', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Greens Red Kale',
     slug: 'organic-greens-red-kale',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/htfBx1Dc/Organic-Greens-Red-Kale-per-lb.jpg',
     originalPrice: 14,
     price: 14,
@@ -7287,15 +7287,15 @@ const products = [
     unit: '1lb',
     quantity: 60,
     type: 'Grocery',
-    tag: ['kale', 'fresh vegetable'],
+    tag: ['kale', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Green Cauliflower',
     slug: 'green-cauliflower',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/W4ytg4Lf/Green-Cauliflower-12ct.jpg',
     originalPrice: 15,
     price: 15,
@@ -7303,15 +7303,15 @@ const products = [
     unit: '12ct',
     quantity: 90,
     type: 'Grocery',
-    tag: ['cauliflower', 'fresh vegetable'],
+    tag: ['cauliflower', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Yellow Sweet Corn',
     slug: 'yellow-sweet-corn',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/tCsSNSxS/Yellow-Sweet-Corn-Bag-each.jpg',
     originalPrice: 15,
     price: 15,
@@ -7319,15 +7319,15 @@ const products = [
     unit: 'each',
     quantity: 0,
     type: 'Grocery',
-    tag: ['corn', 'fresh vegetable'],
+    tag: ['corn', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Kale',
     slug: 'organic-kale',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/W1CP7qzr/Organic-Kale-8oz.jpg',
     originalPrice: 16,
     price: 16,
@@ -7335,15 +7335,15 @@ const products = [
     unit: '8oz',
     quantity: 60,
     type: 'Grocery',
-    tag: ['kale', 'fresh vegetable'],
+    tag: ['kale', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Pinkerton Avocado',
     slug: 'organic-pinkerton-avocado',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/DZdkFCgd/Organic-Pinkerton-Avocado-each.jpg',
     originalPrice: 14,
     price: 14,
@@ -7351,16 +7351,16 @@ const products = [
     unit: 'each',
     quantity: 150,
     type: 'Grocery',
-    tag: ['avocado', 'fresh vegetable'],
+    tag: ['avocado', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Organic Broccoli',
     slug: 'organic-broccoli',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/3w03MCVn/Organic-Broccoli-10oz.jpg',
     originalPrice: 12,
     price: 12,
@@ -7368,15 +7368,15 @@ const products = [
     unit: '10oz',
     quantity: 150,
     type: 'Grocery',
-    tag: ['broccoli', 'fresh vegetable'],
+    tag: ['broccoli', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Pineapple Imported',
     slug: 'pineapple-imported',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/8Ck40tYr/Pineapple-1-5lb.jpg',
     originalPrice: 12,
@@ -7393,8 +7393,8 @@ const products = [
   {
     title: 'Aloe Vera Leaf',
     slug: 'aloe-vera-leaf',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/N0C2D4TD/Aloe-Vera-Leaf-each.jpg',
     originalPrice: 15,
     price: 15,
@@ -7402,15 +7402,15 @@ const products = [
     unit: 'each',
     quantity: 100,
     type: 'Grocery',
-    tag: ['aloe-vera-leaf', 'fresh vegetable'],
+    tag: ['aloe-vera-leaf', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Strawberries Package',
     slug: 'strawberries-package',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/FstZ49qv/Strawberries-Package-2-25-oz.jpg',
     originalPrice: 14,
@@ -7427,8 +7427,8 @@ const products = [
   {
     title: 'Bok Choy Cabbage',
     slug: 'bok-choy-cabbage',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/d3r7qcfN/Bok-Choy-Cabbage-per-lb.jpg',
     originalPrice: 15,
     price: 15,
@@ -7436,16 +7436,16 @@ const products = [
     unit: '1lb',
     quantity: 100,
     type: 'Grocery',
-    tag: ['cabbage', 'fresh vegetable'],
+    tag: ['cabbage', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Ahold Acorn Squash',
     slug: 'ahold-acorn-squash',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/cJL8fjK6/Ahold-Acorn-Squash-1ct.jpg',
     originalPrice: 15,
     price: 15,
@@ -7453,15 +7453,15 @@ const products = [
     unit: '1ct',
     quantity: 100,
     type: 'Grocery',
-    tag: ['squash', 'fresh vegetable'],
+    tag: ['squash', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Organic Purple Cauliflower',
     slug: 'organic-purple-cauliflower',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/9FN3WwGS/Organic-Purple-Cauliflower-1lb.jpg',
     originalPrice: 11,
     price: 11,
@@ -7469,16 +7469,16 @@ const products = [
     unit: '1lb',
     quantity: 130,
     type: 'Grocery',
-    tag: ['cauliflower', 'fresh vegetable'],
+    tag: ['cauliflower', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Cauliflower',
     slug: 'cauliflower',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/vHwg0D1J/Cauliflower-1-35lb.jpg',
     originalPrice: 15,
     price: 15,
@@ -7486,15 +7486,15 @@ const products = [
     unit: '35lb',
     quantity: 100,
     type: 'Grocery',
-    tag: ['cauliflower', 'fresh vegetable'],
+    tag: ['cauliflower', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Strawberrie',
     slug: 'strawberrie',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/NFXkHVKZ/Strawberries-9-25oz.jpg',
     originalPrice: 13,
@@ -7511,8 +7511,8 @@ const products = [
   {
     title: 'Parsley',
     slug: 'parsley',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/wvzZWXpt/Parsley-each.jpgg',
     originalPrice: 12,
     price: 12,
@@ -7520,15 +7520,15 @@ const products = [
     unit: 'each',
     quantity: 100,
     type: 'Grocery',
-    tag: ['parsley', 'fresh vegetable'],
+    tag: ['parsley', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Radicchio',
     slug: 'radicchio',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/5y7rNDFv/Radicchio-12ct.jpg',
     originalPrice: 15,
     price: 15,
@@ -7536,16 +7536,16 @@ const products = [
     unit: '12ct',
     quantity: 0,
     type: 'Grocery',
-    tag: ['radicchio', 'fresh vegetable'],
+    tag: ['radicchio', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Lettuce',
     slug: 'lettuce',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/GhRtkNVr/Lettuce-1lb.jpg',
     originalPrice: 14,
     price: 14,
@@ -7553,15 +7553,15 @@ const products = [
     unit: '1lb',
     quantity: 110,
     type: 'Grocery',
-    tag: ['lettuce', 'fresh vegetable'],
+    tag: ['lettuce', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Calabaza Squash',
     slug: 'calabaza-squash',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/bvrsZtMt/Calabaza-Squash-Package-each.jpg',
     originalPrice: 15,
     price: 15,
@@ -7569,14 +7569,14 @@ const products = [
     unit: 'each',
     quantity: 100,
     type: 'Grocery',
-    tag: ['calabaza-squash', 'fresh vegetable'],
+    tag: ['calabaza-squash', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Blueberry',
     slug: 'blueberry',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/L8L3XGcP/Blackberries-1-25-qt.jpg',
     originalPrice: 15,
@@ -7593,8 +7593,8 @@ const products = [
   {
     title: 'Rainbow Peppers',
     slug: 'rainbow-peppers',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/qRpDcpsy/Rainbow-Peppers-4ct.jpg',
     originalPrice: 15,
     price: 15,
@@ -7602,16 +7602,16 @@ const products = [
     unit: '4ct',
     quantity: 100,
     type: 'Grocery',
-    tag: ['rainbow-peppers', 'fresh vegetable'],
+    tag: ['rainbow-peppers', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Kale Sprouts',
     slug: 'kale-sprouts',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/ryxzRchQ/Kale-Sprouts-3oz.jpg',
     originalPrice: 15,
     price: 15,
@@ -7619,14 +7619,14 @@ const products = [
     unit: '3oz',
     quantity: 100,
     type: 'Grocery',
-    tag: ['kale', 'fresh vegetable'],
+    tag: ['kale', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
   {
     title: 'Clementine',
     slug: 'clementine',
-    parent: 'Fruits & Vegetable',
+    parent: 'Fruits & Wordpress',
     children: 'Fresh Fruits',
     image: 'https://i.postimg.cc/MTPyNwQC/Clementine-5ct.jpg',
     originalPrice: 13,
@@ -7643,8 +7643,8 @@ const products = [
   {
     title: 'Rainbow Chard',
     slug: 'rainbow-chard',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/Z5yQ47YB/Rainbow-Chard-Package-per-lb.jpg',
     originalPrice: 12,
     price: 12,
@@ -7652,16 +7652,16 @@ const products = [
     unit: '1lb',
     quantity: 100,
     type: 'Grocery',
-    tag: ['rainbow-chard', 'fresh vegetable'],
+    tag: ['rainbow-chard', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 
   {
     title: 'Green Leaf Lettuce',
     slug: 'green-leaf-lettuce',
-    parent: 'Fruits & Vegetable',
-    children: 'Fresh Vegetable',
+    parent: 'Fruits & Wordpress',
+    children: 'Fresh Wordpress',
     image: 'https://i.postimg.cc/ZRynchJY/Green-Leaf-Lettuce-each.jpg',
     originalPrice: 14,
     price: 14,
@@ -7669,9 +7669,9 @@ const products = [
     unit: 'each',
     quantity: 70,
     type: 'Grocery',
-    tag: ['lettuce', 'fresh vegetable'],
+    tag: ['lettuce', 'fresh wordpress'],
     description:
-      'Most fresh vegetables are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root vegetables include beets, carrots, radishes, sweet potatoes, and turnips. Stem vegetables include asparagus and kohlrabi.',
+      'Most fresh wordpresss are low in calories and have a water content in excess of 70 percent, with only about 3.5 percent protein and less than 1 percent fat. ... The root wordpresss include beets, carrots, radishes, sweet potatoes, and turnips. Stem wordpresss include asparagus and kohlrabi.',
   },
 ];
 

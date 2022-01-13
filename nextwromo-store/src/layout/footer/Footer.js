@@ -184,9 +184,9 @@ const Footer = () => {
                 </Link>
               </li>
               <li className="flex items-baseline">
-                <Link href="/search?Category=fruits--vegetable">
+                <Link href="/search?Category=fruits--wordpress">
                   <a className="text-gray-600 inline-block w-full hover:text-green-500">
-                    Fruits & Vegetable
+                    Fruits & Wordpress
                   </a>
                 </Link>
               </li>

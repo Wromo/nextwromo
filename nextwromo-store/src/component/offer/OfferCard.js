@@ -6,7 +6,7 @@ const OfferCard = () => {
   return (
     <div className="w-full grid grid-col gap-4">
       <div className="block group">
-        <Link href="/search?Category=fruits--vegetable">
+        <Link href="/search?Category=fruits--wordpress">
           <a>
             {' '}
             <Image
